@@ -4,6 +4,6 @@ title: Home
 permalink: /
 ---
 
-# Welcome to My Blog
+# Welcome to My Website
 
 This is the home page.
