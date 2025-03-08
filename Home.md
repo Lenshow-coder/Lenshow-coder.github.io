@@ -6,4 +6,4 @@ permalink: /
 
 # Welcome to My Blog
 
-This is the home page.
+This is the home page eh.
