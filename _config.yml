@@ -1,1 +1,16 @@
+title: Lenny Masters Data
+email: Lennyhdalevich@gmail.com
+description: A blog about my progress.
+author: Lenny
 theme: jekyll-theme-minimal
+
+# Optional: Personalize your site’s navigation menu
+navbar:
+  - text: Home
+    url: /
+  - text: Blog
+    url: /blog
+  - text: Projects
+    url: /projects
+
+
