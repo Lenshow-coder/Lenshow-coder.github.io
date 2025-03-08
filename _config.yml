@@ -3,6 +3,7 @@ email: Lennyhdalevich@gmail.com
 description: A blog about my progress.
 author: Lenny
 theme: jekyll-theme-minimal
+permalink: /:categories/:year/:month/:day/:title/
 
 # Optional: Personalize your site’s navigation menu
 navbar:
